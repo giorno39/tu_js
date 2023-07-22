@@ -1,0 +1,6 @@
+.footer {
+  grid-column: 1 / -1;
+  background-color: wheat;
+  height: 20px;
+  margin: 0;
+}

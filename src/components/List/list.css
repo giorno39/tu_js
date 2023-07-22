@@ -1,0 +1,22 @@
+.content-list {
+  border: solid #fb923c 5px;
+  background-color: wheat;
+  border-radius: 25px;
+  margin: 10px;
+}
+
+.item-list {
+  list-style-type: none;
+}
+
+.deleteButton {
+  border: none;
+  background-color: #fb923c;
+  border-radius: 15px;
+  padding: 8px 15px;
+  box-shadow: 1px 5px 5px #475569;
+}
+
+.deleteButton:active {
+  box-shadow: 1px 2px 5px #475569;
+}

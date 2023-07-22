@@ -1,0 +1,42 @@
+.content-details {
+  border: solid #fb923c 5px;
+  background-color: wheat;
+  border-radius: 25px;
+  margin: 10px;
+}
+
+.form-class {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  align-items: center;
+  margin: 0;
+}
+
+#saveButton {
+  border: none;
+  background-color: #fb923c;
+  border-radius: 15px;
+  margin-top: 10px;
+  width: 100px;
+  padding: 8px 15px;
+  box-shadow: 1px 5px 5px #475569;
+}
+
+#saveButton:active {
+  box-shadow: 1px 2px 5px #475569;
+}
+
+#clearButton {
+  border: none;
+  background-color: #fb923c;
+  width: 100px;
+  margin-top: 10px;
+  border-radius: 15px;
+  padding: 8px 15px;
+  box-shadow: 1px 5px 5px #475569;
+}
+
+#clearButton:active {
+  box-shadow: 1px 2px 5px #475569;
+}
